@@ -1,7 +1,8 @@
-## Hey, this is us 👋
+##REMENTIA
 
+## Hey,👋
 
-We are building a platform for patients suffering from **DEMENTIA**. In fact, we’ve been doing this since **September, 2022**. That's when we made our first commit. 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+We are building a platform for patients suffering from **DEMENTIA**. In fact, we’ve been doing this since **September, 2022**. That's when we made our first commit. 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. 
 
 
 ### 🦦 Contributing to the ecosystem
