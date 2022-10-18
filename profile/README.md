@@ -1,6 +1,5 @@
 ## REMENTIA
-
-![REMENTIA Forget dementia, remember rementia (2)](https://user-images.githubusercontent.com/77490864/194696601-650bb9ef-736d-4ad2-9f3c-71b7591862eb.png)
+<img src="https://user-images.githubusercontent.com/77490864/194696601-650bb9ef-736d-4ad2-9f3c-71b7591862eb.png" width="100%">
 
 
 ## Hey,👋
